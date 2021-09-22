@@ -1,0 +1,14 @@
+C:\Users\sanja\source\repos\LA_1200_2_raviraj\LA_1200_2_raviraj\bin\Debug\netcoreapp3.1\LA_1200_2_raviraj.exe
+C:\Users\sanja\source\repos\LA_1200_2_raviraj\LA_1200_2_raviraj\bin\Debug\netcoreapp3.1\LA_1200_2_raviraj.deps.json
+C:\Users\sanja\source\repos\LA_1200_2_raviraj\LA_1200_2_raviraj\bin\Debug\netcoreapp3.1\LA_1200_2_raviraj.runtimeconfig.json
+C:\Users\sanja\source\repos\LA_1200_2_raviraj\LA_1200_2_raviraj\bin\Debug\netcoreapp3.1\LA_1200_2_raviraj.runtimeconfig.dev.json
+C:\Users\sanja\source\repos\LA_1200_2_raviraj\LA_1200_2_raviraj\bin\Debug\netcoreapp3.1\LA_1200_2_raviraj.dll
+C:\Users\sanja\source\repos\LA_1200_2_raviraj\LA_1200_2_raviraj\bin\Debug\netcoreapp3.1\LA_1200_2_raviraj.pdb
+C:\Users\sanja\source\repos\LA_1200_2_raviraj\LA_1200_2_raviraj\obj\Debug\netcoreapp3.1\LA_1200_2_raviraj.csproj.AssemblyReference.cache
+C:\Users\sanja\source\repos\LA_1200_2_raviraj\LA_1200_2_raviraj\obj\Debug\netcoreapp3.1\LA_1200_2_raviraj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanja\source\repos\LA_1200_2_raviraj\LA_1200_2_raviraj\obj\Debug\netcoreapp3.1\LA_1200_2_raviraj.AssemblyInfoInputs.cache
+C:\Users\sanja\source\repos\LA_1200_2_raviraj\LA_1200_2_raviraj\obj\Debug\netcoreapp3.1\LA_1200_2_raviraj.AssemblyInfo.cs
+C:\Users\sanja\source\repos\LA_1200_2_raviraj\LA_1200_2_raviraj\obj\Debug\netcoreapp3.1\LA_1200_2_raviraj.csproj.CoreCompileInputs.cache
+C:\Users\sanja\source\repos\LA_1200_2_raviraj\LA_1200_2_raviraj\obj\Debug\netcoreapp3.1\LA_1200_2_raviraj.dll
+C:\Users\sanja\source\repos\LA_1200_2_raviraj\LA_1200_2_raviraj\obj\Debug\netcoreapp3.1\LA_1200_2_raviraj.pdb
+C:\Users\sanja\source\repos\LA_1200_2_raviraj\LA_1200_2_raviraj\obj\Debug\netcoreapp3.1\LA_1200_2_raviraj.genruntimeconfig.cache
